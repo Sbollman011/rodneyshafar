@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image:
+    linear-gradient(to top, rgba(252, 246, 245, 0.52), rgba(26, 19, 117, 0.73)),
+     url('../assets/rodney.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    height:100vh;
+    align-items: center;
+    justify-content: middle;
+    text-align: center;
+}
+
+.headerText{
+    font-size:400%;
+}
+.pText{
+    font-size:200%;
+}
