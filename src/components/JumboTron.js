@@ -17,7 +17,7 @@ class JumboTron extends Component{
                     <p className="lead pText">Welcome to RodneyShafar.com</p>
 
                     <p className="lead pText">
-                        <a className="btn btn-primary btn-lg" href="#" role="button">Check me out!</a>
+                        <a className="btn btn-primary btn-lg" href="https://www.enterprise.com/en/home.html" role="button">Check me out!</a>
                     </p>
             </div>
             );
